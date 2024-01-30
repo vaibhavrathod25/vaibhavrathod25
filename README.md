@@ -1,7 +1,6 @@
 # 👋 Hi, I'm VAIBHAV RATHOD
 
 Welcome to my GitHub profile! 🚀 I am Computer Science Engineer (grad 2023) and recently completed postgraduate program in Data Science and Analytics. 
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" />
 
 Here's a bit about me:  
 
