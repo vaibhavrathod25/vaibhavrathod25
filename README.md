@@ -9,7 +9,7 @@ Here's a bit about me:
 - 🌱 I’m currently learning the ropes of AI/ML, diving into topics like 🤖 Neural Networks and 📊 Data Science.
 
 - 💼 **Skills:**
-  - Programming Languages: Python
+  - Programming Languages: C, Python
   - Machine Learning Algo : Linear Regression, Logistic Regression, Decision Tree, Random Forest, KNN, Boosting, KMeans, Heirarchical Clustering, PCA
   - Statistical methods: Predictive Analysis, Hypothesis Testing ,PCA, Univariate And Bivariate Analysis.
   - Libraries and Frameworks: Numpy ,Pandas 
